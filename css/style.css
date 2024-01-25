@@ -65,11 +65,12 @@ border-color: blue;
   border-radius: ;
 
 }
-.dct{
+.edit{
   float:left;
-  width: 33.3%;
-  padding: 5px;
-  border:
+  width: 30%;
+  padding:5px%;
+  box-shadow:4px 4px 4px 4px grey;
+  margin:20px;
 }
 .top{
   position: absolute;
@@ -88,6 +89,9 @@ border-style: ;
 .doc{
   float:left
 }
-.edit{
-  
+.mid{
+
+}
+.patients{
+  float:left;
 }
