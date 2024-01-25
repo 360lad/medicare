@@ -121,6 +121,17 @@ textarea{
   text-align: center;
 }
 
+ .client-testimonials figure:not(:nth-child(2)) img{
+  width: 100px;
+  text-align: center;
+}
+
+.client-testimonials figure:nth-child(2) img{
+  width: 150px;
+  text-align: center;
+
+} 
+
 .sbt{
   background-color: #496bf2;
   position:absolute;
@@ -134,4 +145,15 @@ border-color: #496bf2;
   border-radius: 10%;
   border-color: #496bf2;
   padding: 10px 15px;
+}
+.ft{
+  float:left;
+}
+.socials{
+  float:left;
+  width:50px;
+}
+  
+
+
 }
