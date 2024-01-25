@@ -94,3 +94,8 @@ img{
   background-image: url("../images/ezgif-2-81a50240fb.png");
 height:80vh;
 }
+input{
+  width:40%;
+  padding:20px 40px;
+
+}
