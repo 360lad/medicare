@@ -92,7 +92,7 @@ img{
 }
 .form{
   background-image: url("../images/ezgif-2-81a50240fb.png");
-height:80vh;
+height:90vh;
 }
 input{
   width:40%;
@@ -103,4 +103,16 @@ input{
 textarea{
   width:40%;
   padding:40px 60px;
+}
+.abt{
+  color:#2dd601;
+}
+.s{
+  color:#496bf2;
+}
+.t{
+  color:#496bf2;
+}
+.lrn{
+  color:#496bf2;
 }
