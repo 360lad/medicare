@@ -119,3 +119,18 @@ textarea{
 .cntr{
   text-align: center;
 }
+
+.sbt{
+  background-color: #496bf2;
+  position:absolute;
+  left:1%;
+  Padding: 10px 15px;
+border-radius: 10%;
+border-color: #496bf2;
+}
+.rme{
+  background-color: #496bf2;
+  border-radius: 10%;
+  border-color: #496bf2;
+  padding: 10px 15px;
+}
