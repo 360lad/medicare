@@ -9,7 +9,6 @@ ul li {
   list-style-type: none;
   padding: 20px;
   display: inline-block;
-  /* hover: */,
 }
 .hero {
   background-image: url("../images/ezgif-2-b583d0ce77.png");
@@ -62,13 +61,13 @@ border-color: blue;
   margin:6px 4px;
   background-color: aqua ;
   border-color:aqua;
-  border-radius: ;
+  border-radius:20px;
 
 }
 .edit{
   float:left;
   width: 30%;
-  padding:5px%;
+  padding:2px;
   box-shadow:4px 4px 4px 4px grey;
   margin:20px;
 }
@@ -81,7 +80,6 @@ border-color: blue;
 img{
   width:33.3%;
   float:left;
-border-style: ;
 }
 .lnp{
   float:left;
@@ -89,9 +87,9 @@ border-style: ;
 .doc{
   float:left
 }
-.mid{
-
-}
 .patients{
   float:left;
+}
+.form{
+  background-image:
 }
