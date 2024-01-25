@@ -1,0 +1,93 @@
+.list {
+  float: right;
+  height: 0.5px;
+}
+.clearfix {
+  clear: both;
+}
+ul li {
+  list-style-type: none;
+  padding: 20px;
+  display: inline-block;
+  /* hover: */,
+}
+.hero {
+  background-image: url("../images/ezgif-2-b583d0ce77.png");
+  height: 80vh;
+
+}
+ul li:hover {
+  color: blue;
+}
+.lg {
+  width: 10cm;
+}
+.qr {
+  color: #496bf2;
+  float:right;
+  padding:70px;
+  margin:70px;
+  clear:both;
+  position:absolute;
+  top: 20%;
+  left:50%;
+  font-size:36px;
+}
+.tc{
+  float:right;
+  position:absolute;
+  top: 60%;
+  left:50%;
+  font-size:20px;
+}
+.bt{
+  position:absolute;
+  top:80%;
+  left:60%;
+  padding:15px 40px;
+  margin:6px 4px;
+float:left;
+background-color: blue;
+border-color: blue;
+}
+
+.ab{
+  float:right;
+}
+.ba{
+  position:absolute;
+  top:80%;
+  left:75%;
+  padding:15px 40px;
+  margin:6px 4px;
+  background-color: aqua ;
+  border-color:aqua;
+  border-radius: ;
+
+}
+.dct{
+  float:left;
+  width: 33.3%;
+  padding: 5px;
+  border:
+}
+.top{
+  position: absolute;
+  top: 40%;
+  left:50%;
+  float:right;
+}
+img{
+  width:33.3%;
+  float:left;
+border-style: ;
+}
+.lnp{
+  float:left;
+}
+.doc{
+  float:left
+}
+.edit{
+  
+}
