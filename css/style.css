@@ -96,6 +96,10 @@ height:80vh;
 }
 input{
   width:40%;
-  padding:20px 40px;
+  padding:30px 40px;
+  margin:10px;
 
+}
+.msg{
+  paddind:60px 40px;
 }
