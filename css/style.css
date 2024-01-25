@@ -85,7 +85,8 @@ img{
   float:left;
 }
 .doc{
-  float:left
+  float:left;
+  margin-right: 40px;
 }
 .patients{
   float:left;
