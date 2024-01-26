@@ -85,7 +85,7 @@ ul li:hover {
 .doc {
   float: left;
   margin-right: 40px;
-  width:33.3%;
+  width: 33.3%;
 }
 .patients {
   float: left;
@@ -123,6 +123,7 @@ textarea {
 }
 .lrn {
   color: #496bf2;
+  text-align: center;
 }
 .cntr h2 {
   text-align: center;
@@ -218,17 +219,17 @@ textarea {
 .unordered {
   text-decoration: none;
 }
-.testmonials{
-  width:50%;
-  margin:0 auto;
+.testmonials {
+  width: 50%;
+  margin: 0 auto;
 }
-.thousands{
+.thousands {
   text-align: center;
 }
-.testimonials-avatar{
+.testimonials-avatar {
   position: relative;
-  left:40%;
+  left: 40%;
 }
-.knee{
+.knee {
   text-align: center;
 }
