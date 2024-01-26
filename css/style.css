@@ -153,8 +153,7 @@ textarea {
   border-color: #496bf2;
   padding: 10px 15px;
 }
-.ft {
-}
+
 .socials {
   width:20%;
   margin-top: 60px;
@@ -214,12 +213,9 @@ textarea {
 
   left:40%;
 }
-.profs {
-}
+
 .km {
   width: 10%;
-}
-.thptext {
 }
 .unordered li {
   list-style-type: none;
@@ -241,6 +237,6 @@ textarea {
 .hear{
   text-align: center;
 }
-/* .gram{ */
+.gram{
   width:10%;
 }
