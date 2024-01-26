@@ -225,3 +225,10 @@ textarea {
 .thousands{
   text-align: center;
 }
+.testimonials-avatar{
+  position: relative;
+  left:40%;
+}
+.knee{
+  text-align: center;
+}
