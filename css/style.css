@@ -156,7 +156,7 @@ textarea {
 .ft {
 }
 .socials {
-  width: 120px;
+  width:20%;
   margin-top: 60px;
   margin-left: -100px;
   float: left;
@@ -221,8 +221,8 @@ textarea {
 }
 .thptext {
 }
-.unordered {
-  text-decoration: none;
+.unordered li {
+  list-style-type: none;
 }
 .testmonials {
   width: 50%;
@@ -240,4 +240,7 @@ textarea {
 }
 .hear{
   text-align: center;
+}
+/* .gram{ */
+  width:10%;
 }
