@@ -5,7 +5,7 @@
 .clearfix {
   clear: both;
 }
-ul li {
+.list li {
   list-style-type: none;
   padding: 20px;
   display: inline-block;
@@ -150,16 +150,16 @@ border-color: #496bf2;
 
 }
 .socials{
-  width:80px;
-  margin:20px:
+  width:120px;
+  margin-top:60px;
+  margin-left:-100px;
   float:left;
-}
 }
 .ql{
   width:25%;
 }
 
-}
+
 .links{
   float:left;
   width:25%
@@ -168,18 +168,21 @@ border-color: #496bf2;
   float:left;
   width:25%;
 }
-.end{
+.end{ 
   display:flex;
 }
 .lg{
   width:25%;
 }
-.links[
-  width:25%;
-]
+.links{
+width:25%;
+}
+
 .departs{
-  width:25%
+  width:25%;
 }
 .contacts{
   width:25%;
 }
+
+
