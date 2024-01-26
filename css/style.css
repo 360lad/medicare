@@ -199,6 +199,8 @@ textarea {
   margin: 20px;
   background-color: #2dd601;
   display: inline-block;
+  position: absolute;
+  left: 40%;
 }
 .dot {
   height: 20px;
