@@ -152,15 +152,25 @@ border-color: #496bf2;
 .socials{
   width:80px;
   margin:20px:
+  float:left;
 }
-.last{
-  display:flex;
-  padding:20px;
 }
 .ql{
   width:25%;
 }
-.lg2{
+
+}
+.links{
   float:left;
+  width:25%
+}
+.department{
+  float:left;
+  width:25%;
+}
+.end{
+  display:flex;
+}
+.lg{
   width:25%;
 }
