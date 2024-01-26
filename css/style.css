@@ -147,13 +147,20 @@ border-color: #496bf2;
   padding: 10px 15px;
 }
 .ft{
-  float:left;
+
 }
 .socials{
-  float:left;
-  width:50px;
+  width:80px;
+  margin:20px:
 }
-  
-
-
+.last{
+  display:flex;
+  padding:20px;
+}
+.ql{
+  width:25%;
+}
+.lg2{
+  float:left;
+  width:25%;
 }
