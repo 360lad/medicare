@@ -1,17 +1,18 @@
 
-<style>
 
   @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@700&family=Josefin+Sans&display=swap');
-</style>
+
 *{
   margin:0 auto;
+  padding:5px;
+  display: border-box;
   font-family: 'IBM Plex Sans Condensed', sans-serif;
 font-family: 'Josefin Sans', sans-serif;
 }
 
 .list {
   float: right;
-  height: 0.5px;
+  height: 0.4px;
 }
 .clearfix {
   clear: both;
@@ -30,6 +31,8 @@ ul li:hover {
 }
 .lg {
   width: 10cm;
+  height: 1cm;
+  
 }
 .qr {
   color: #496bf2;
@@ -77,9 +80,12 @@ ul li:hover {
 .edit {
   float: left;
   width: 30%;
-  padding: 2px;
+  padding:2px;
   box-shadow: 4px 4px 4px 4px grey;
   margin: 20px;
+}
+p{
+  padding:6px;
 }
 .top {
   position: absolute;
@@ -168,6 +174,7 @@ textarea {
 
 .socials {
   width: 25%;
+  display: inline;
   
   /* float: left; */
 }
@@ -252,13 +259,13 @@ textarea {
   width: 10%;
 }
 .lst {
-  width:25%;
+  width:10%;
 }
 h1{
   color:#496bf2
 }
 .lst2{
-  width:25%;
+  width:10%;
 }
 .btmlogo {
   width: 30%;
