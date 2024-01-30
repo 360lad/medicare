@@ -1,3 +1,14 @@
+
+<style>
+
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@700&family=Josefin+Sans&display=swap');
+</style>
+*{
+  margin:0 auto;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+}
+
 .list {
   float: right;
   height: 0.5px;
@@ -41,12 +52,13 @@ ul li:hover {
 .bt {
   position: absolute;
   top: 80%;
-  left: 60%;
+  left: 50%;
   padding: 15px 40px;
   margin: 6px 4px;
   float: left;
   background-color: blue;
   border-color: blue;
+  border-radius: 8%;
 }
 
 .ab {
@@ -55,12 +67,12 @@ ul li:hover {
 .ba {
   position: absolute;
   top: 80%;
-  left: 75%;
-  padding: 15px 40px;
+  left: 62%;
+  padding: 15px 40px ;
   margin: 6px 4px;
   background-color: aqua;
   border-color: aqua;
-  border-radius: 20px;
+  border-radius: 8%;
 }
 .edit {
   float: left;
@@ -155,10 +167,9 @@ textarea {
 }
 
 .socials {
-  width:205;
-  margin-top: 60px;
-  margin-left: -100px;
-  float: left;
+  width: 25%;
+  
+  /* float: left; */
 }
 .ql {
   width: 25%;
@@ -174,7 +185,7 @@ textarea {
   width: 25%;
   text-decoration: none;
 }
-.end {
+.end{
   display: flex;
 }
 .lg {
@@ -209,9 +220,9 @@ textarea {
   margin: 20px;
   background-color: #496bf2;
   display: inline-block;
-  position:relative;
+  position: relative;
 
-  left:40%;
+  left: 40%;
 }
 
 .km {
@@ -234,12 +245,21 @@ textarea {
 .knee {
   text-align: center;
 }
-.hear{
+.hear {
   text-align: center;
 }
-.gram{
-  width:10%;
+.gram {
+  width: 10%;
 }
-.lst{
-  width:30%;
+.lst {
+  width:25%;
+}
+h1{
+  color:#496bf2
+}
+.lst2{
+  width:25%;
+}
+.btmlogo {
+  width: 30%;
 }
