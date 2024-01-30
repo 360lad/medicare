@@ -78,11 +78,10 @@ ul li:hover {
   border-radius: 8%;
 }
 .edit {
-  float: left;
-  width: 30%;
-  padding:2px;
-  box-shadow: 4px 4px 4px 4px grey;
-  margin: 20px;
+  display: flex;
+}
+.edit img{
+  display: block;
 }
 p{
   padding:6px;
@@ -95,7 +94,6 @@ p{
 }
 .cha {
   width: 33.3%;
-  float: left;
 }
 .lnp {
   float: left;
@@ -233,7 +231,7 @@ textarea {
 }
 
 .km {
-  width: 10%;
+  width: 5%;
 }
 .unordered li {
   list-style-type: none;
@@ -269,4 +267,38 @@ h1{
 }
 .btmlogo {
   width: 30%;
+}
+.quote{
+  width:10px;
+}
+p{
+  font-size:1.2rem;
+}
+.quality{
+  width: 30%;
+  padding:2px;
+  box-shadow: 0px 0px 5px grey;
+  margin
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.emerge{
+  width: 30%;
+  padding:2px;
+  box-shadow: 0px 0px 5px grey;
+  margin
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.hours{
+  width: 30%;
+  padding:2px;
+  box-shadow: 0px 0px 5px grey;
+  margin
+  margin-top: 50px;
+  margin-left: 50px;
+}
+/* .emerge h2{ */
+  margin-top: 130px;
+
 }
