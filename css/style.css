@@ -133,7 +133,6 @@ textarea {
   width: 40%;
   padding: 40px 60px;
   border: none;
-  rows:5;
   margin: 10px;
 }
 .abt {
@@ -224,7 +223,8 @@ textarea {
   float:left;
 }
 .contacts p{
-  float:right;
+  float:right; 
+  margin-left: ;
 }
 .dot2 {
   height: 5px;
@@ -286,7 +286,8 @@ textarea {
 }
 h1{
   color:#496bf2;
-  font-size:2.5rem;
+  font-size:3rem;
+  margin:20px 0;
 }
 .lst2{
   width:10%;
@@ -327,17 +328,14 @@ p{
 .edit h2{
   color:#496bf2;
 }
-/* .testimonial-content p{ */
-  text-align: center;
-  margin:30px 600px;
-}
+
 .top h1{
   font-size: 2rem;
 }
 p{
   font-size:20px ;
   line-height:30px ;
-  align-text:center;
+  text-align:center;
 }
 .testimony{
   text-align: center;
@@ -355,3 +353,25 @@ h2{
 .edit h3{
   color:#496bf2;
   font-size: 1.5rem;
+  }
+  /* .m{ */
+    margin-top: 45px;
+    margin-left:-40px ; 
+  }
+  /* .email{ */
+    margin-top: 40px;
+    margin-left: 40px; 
+  }
+  /* .kibera{ */
+    margin-left: -50px;
+  }
+  .contactinfo{
+    display:block;
+    list-style-type: none;
+  }
+  .contact ul{
+    display:block;
+    list-style-type: none;
+    
+    
+  }
